@@ -1,0 +1,11 @@
+.user-email {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+  .user-email {
+    display: none;
+  }
+}
+
